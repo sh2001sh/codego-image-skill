@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shu26 Image Skill"
+  short_description: "Image generation, editing, optimization, and composition through shu26.cfd."
+  default_prompt: "Generate or edit images with the Shu26 Images API endpoint."
