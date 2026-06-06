@@ -1,12 +1,12 @@
-# Shu26 Image Skill
+# CodeGo Image Skill
 
-这是 `https://shu26.cfd` 的 Codex 图片生成附加 skill。它通过固定的 Shu26 Images API 端点提供文生图、图片编辑、图片优化、多图合成、局部蒙版编辑，以及本地 4K / tile 画布处理能力。
+这是 `https://shu26.cfd` 的 Codex 图片生成附加 skill。它通过固定的 CodeGo Images API 端点提供文生图、图片编辑、图片优化、多图合成、局部蒙版编辑，以及本地 4K / tile 画布处理能力。
 
 - 官网：`https://shu26.cfd`
 - API 端点：`https://shu26.cfd/v1`
 - 适合场景：海报设计、头像生成、产品概念图、应用图标、视觉素材、参考图改图、多图合成
 
-安装这个 skill 后，Codex 可以直接把图片需求交给 Shu26 Images API 执行，减少手动配置和重复拼接命令的成本。
+安装这个 skill 后，Codex 可以直接把图片需求交给 CodeGo Images API 执行，减少手动配置和重复拼接命令的成本。
 
 ## 固定接入方式
 

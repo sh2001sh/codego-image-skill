@@ -1,7 +1,7 @@
-# Shu26 Image Skill
+# CodeGo Image Skill
 
 This is a Codex image-generation add-on skill for `https://shu26.cfd`. It uses
-the fixed Shu26 Images API endpoint to support text-to-image generation, image
+the fixed CodeGo Images API endpoint to support text-to-image generation, image
 editing, image optimization, multi-image composition, masked local edits, and
 local 4K / tile canvas workflows.
 
@@ -11,7 +11,7 @@ local 4K / tile canvas workflows.
   app icons, visual assets, reference-image edits, and multi-image composition
 
 After installing this skill, Codex can send image requests directly to the
-Shu26 Images API, reducing manual setup and repeated command assembly.
+CodeGo Images API, reducing manual setup and repeated command assembly.
 
 ## Fixed Connection
 
